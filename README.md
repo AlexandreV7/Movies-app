@@ -14,9 +14,9 @@ Searching for movies by title or keywords.
 
 The Movies List application uses the following technologies:
 
-React (tsx)
-TMDB API
-HTML
+React (tsx),
+TMDB API,
+HTML,
 CSS
 
 #### Note:
